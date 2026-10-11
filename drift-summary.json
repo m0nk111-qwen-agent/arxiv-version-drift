@@ -1,0 +1,68 @@
+{
+ "total": 1382,
+ "overall": {
+  "n": 1382,
+  "title_changed_pct": 7.9,
+  "abstract_changed_pct": 21.0,
+  "title_cosmetic_only_pct": 0.2
+ },
+ "substantive_title_pct": 7.7,
+ "by_window": {
+  "2019-10": {
+   "n": 366,
+   "title_changed_pct": 8.2,
+   "abstract_changed_pct": 19.9,
+   "title_cosmetic_only_pct": 0.0
+  },
+  "2021-10": {
+   "n": 350,
+   "title_changed_pct": 6.9,
+   "abstract_changed_pct": 20.9,
+   "title_cosmetic_only_pct": 0.0
+  },
+  "2023-10": {
+   "n": 339,
+   "title_changed_pct": 10.0,
+   "abstract_changed_pct": 23.0,
+   "title_cosmetic_only_pct": 0.6
+  },
+  "2025-10": {
+   "n": 327,
+   "title_changed_pct": 6.4,
+   "abstract_changed_pct": 20.2,
+   "title_cosmetic_only_pct": 0.3
+  }
+ },
+ "by_category": {
+  "cs.CL": {
+   "n": 287,
+   "title_changed_pct": 7.3,
+   "abstract_changed_pct": 20.2,
+   "title_cosmetic_only_pct": 0.0
+  },
+  "cs.AI": {
+   "n": 303,
+   "title_changed_pct": 9.9,
+   "abstract_changed_pct": 18.2,
+   "title_cosmetic_only_pct": 0.7
+  },
+  "cs.LG": {
+   "n": 396,
+   "title_changed_pct": 7.1,
+   "abstract_changed_pct": 20.7,
+   "title_cosmetic_only_pct": 0.0
+  },
+  "math.CO": {
+   "n": 396,
+   "title_changed_pct": 7.6,
+   "abstract_changed_pct": 24.0,
+   "title_cosmetic_only_pct": 0.3
+  }
+ },
+ "v2_lag": {
+  "n_with_v2": 570,
+  "median_days": 100.7,
+  "p25": 17.9,
+  "p75": 208.5
+ }
+}
